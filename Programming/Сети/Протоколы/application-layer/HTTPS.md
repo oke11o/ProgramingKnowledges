@@ -5,7 +5,6 @@ tags:
   - protocols
   - applicationlayer
 ---
-
 ### Описание
 
 **HTTPS (HyperText Transfer Protocol Secure)** — это защищённая версия [HTTP](HTTP%201.1.md), обеспечивающая безопасную передачу данных между клиентом и сервером. HTTPS использует [TLS SSL](TLS%20SSL.md) для шифрования данных. Основная цель HTTPS — защитить данные от перехвата и модификации.
