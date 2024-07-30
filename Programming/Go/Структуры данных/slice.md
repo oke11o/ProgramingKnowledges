@@ -2,6 +2,7 @@
 создал заметку: 2024-07-28
 tags:
   - golang
+  - internal
 ---
 ### Описание
 
@@ -69,7 +70,7 @@ func nextslicecap(newLen, oldCap int) int {
     newcap := oldCap  
     doublecap := newcap + newcap  
     if newLen > doublecap {  
-       return newLen  
+       return newLen
     }  
   
     const threshold = 256  
@@ -87,7 +88,7 @@ func nextslicecap(newLen, oldCap int) int {
        // when newcap overflows then `uint(newcap) > uint(newLen)`.
        // This allows to check for both with the same comparison.
        if uint(newcap) >= uint(newLen) {  
-          break  
+          break
        }  
     }  
   
