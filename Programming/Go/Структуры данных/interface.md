@@ -155,7 +155,7 @@ type InterfaceType struct {
 s := Speaker(Human{Greeting: "Hello!"})
 ```
 
-Динамический диспетчинг:
+Динамический диспатчинг:
 - Для `runtime` это вызов n-го метода `s.Method_0()`.
 - Превращается в вызов вида `s.itab.fun[0](s.data)`.
 
