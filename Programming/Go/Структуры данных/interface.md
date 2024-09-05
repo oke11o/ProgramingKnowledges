@@ -1,5 +1,5 @@
 ---
-создал заметку: 2024-07-28
+created_at: 2024-07-28
 tags:
   - golang
   - internal
