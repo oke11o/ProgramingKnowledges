@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Go/Структуры данных/interface.md",
+                "file": "Programming/System Design/Основные термины и компоненты.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Go/Структуры данных/interface.md",
+                "file": "Programming/System Design/Основные термины и компоненты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Go/Структуры данных/interface.md",
+                "file": "Programming/System Design/Основные термины и компоненты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Go/Структуры данных/interface.md"
+                "file": "Programming/System Design/Основные термины и компоненты.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,6 +150,7 @@
   },
   "active": "aa84b26eaf22b226",
   "lastOpenFiles": [
+    "Programming/Go/Структуры данных/interface.md",
     "Programming/Go/Структуры данных/map.md",
     "README.md"
   ]
